@@ -691,5 +691,13 @@
         <outline text="展开讲讲" title="展开讲讲" type="rss" xmlUrl="https://www.ximalaya.com/album/24672021.xml" htmlUrl="https://www.ximalaya.com/album/24672021.xml" />
         <outline text="日谈公园" title="日谈公园" type="rss" xmlUrl="https://www.ximalaya.com/album/5574153.xml" htmlUrl="https://www.ximalaya.com/album/5574153.xml" />
         <outline text="好檸檬 NiceLemon" title="好檸檬 NiceLemon" type="rss" xmlUrl="https://nicelemon.libsyn.com/rss" htmlUrl="https://nicelemon.libsyn.com/rss" />
+        <outline text="Feisworld Podcast" title="Feisworld Podcast" type="rss" xmlUrl="http://feisworld.libsyn.com/rss" htmlUrl="http://www.feisworld.com" />
+        <outline text="Before Midnight" title="Before Midnight" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/ed9a26b7-1222-4440-8c03-618ec0aa7e3e.xml" htmlUrl="https://feeds.soundon.fm/podcasts/ed9a26b7-1222-4440-8c03-618ec0aa7e3e.xml" />
+        <outline text="Strong Songs" title="Strong Songs" type="rss" xmlUrl="https://strongsongs.libsyn.com/rss" htmlUrl="https://strongsongspodcast.com" />
+        <outline text="The Numberphile Podcast" title="The Numberphile Podcast" type="rss" xmlUrl="https://www.numberphile.com/podcast?format=rss" htmlUrl="https://www.numberphile.com/podcast?format=rss" />
+        <outline text="海马星球" title="海马星球" type="rss" xmlUrl="https://anchor.fm/s/47795d0/podcast/rss" htmlUrl="https://anchor.fm/s/47795d0/podcast/rss" />
+        <outline text="The 3b1b podcast" title="The 3b1b podcast" type="rss" xmlUrl="https://anchor.fm/s/636b4820/podcast/rss" htmlUrl="https://anchor.fm/s/636b4820/podcast/rss" />
+        <outline text="Reply All" title="Reply All" type="rss" xmlUrl="https://feeds.megaphone.fm/replyall" htmlUrl="https://feeds.megaphone.fm/replyall" />
+        <outline text="Heme Review" title="Heme Review" type="rss" xmlUrl="https://anchor.fm/s/130b5bcc/podcast/rss" htmlUrl="https://anchor.fm/s/130b5bcc/podcast/rss" />
     </body>
 </opml>
