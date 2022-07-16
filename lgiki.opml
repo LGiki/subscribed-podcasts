@@ -699,5 +699,39 @@
         <outline text="The 3b1b podcast" title="The 3b1b podcast" type="rss" xmlUrl="https://anchor.fm/s/636b4820/podcast/rss" htmlUrl="https://anchor.fm/s/636b4820/podcast/rss" />
         <outline text="Reply All" title="Reply All" type="rss" xmlUrl="https://feeds.megaphone.fm/replyall" htmlUrl="https://feeds.megaphone.fm/replyall" />
         <outline text="Heme Review" title="Heme Review" type="rss" xmlUrl="https://anchor.fm/s/130b5bcc/podcast/rss" htmlUrl="https://anchor.fm/s/130b5bcc/podcast/rss" />
+        <outline text="CoRecursive: Coding Stories" title="CoRecursive: Coding Stories" type="rss" xmlUrl="https://corecursive.libsyn.com/feed" htmlUrl="https://corecursive.libsyn.com/feed" />
+        <outline text="How To F#€k Up An Airport" title="How To F#€k Up An Airport" type="rss" xmlUrl="https://howtofupanairport.libsyn.com/rss" htmlUrl="https://howtofupanairport.libsyn.com/rss" />
+        <outline text="Embedded" title="Embedded" type="rss" xmlUrl="https://makingembeddedsystems.libsyn.com/rss" htmlUrl="https://makingembeddedsystems.libsyn.com/rss" />
+        <outline text="Freakonomics Radio" title="Freakonomics Radio" type="rss" xmlUrl="https://feeds.simplecast.com/Y8lFbOT4" htmlUrl="https://feeds.simplecast.com/Y8lFbOT4" />
+        <outline text="Gooaye 股癌" title="Gooaye 股癌" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml" htmlUrl="https://feeds.soundon.fm/podcasts/954689a5-3096-43a4-a80b-7810b219cef3.xml" />
+        <outline text="Music For Programming" title="Music For Programming" type="rss" xmlUrl="https://musicforprogramming.net/rss.php" htmlUrl="https://musicforprogramming.net/rss.php" />
+        <outline text="UX Podcast" title="UX Podcast" type="rss" xmlUrl="https://feed.uxpodcast.com/" htmlUrl="https://feed.uxpodcast.com/" />
+        <outline text="Lenny's Podcast: Product | Growth | Career" title="Lenny's Podcast: Product | Growth | Career" type="rss" xmlUrl="https://api.substack.com/feed/podcast/10845.rss" htmlUrl="https://api.substack.com/feed/podcast/10845.rss" />
+        <outline text="迷誠品" title="迷誠品" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/b9b3e526-f20d-417e-9af8-e90c45c924d6.xml" htmlUrl="https://feeds.soundon.fm/podcasts/b9b3e526-f20d-417e-9af8-e90c45c924d6.xml" />
+        <outline text="Are You Sleeping?" title="Are You Sleeping?" type="rss" xmlUrl="https://feeds.megaphone.fm/VMP4715698088" htmlUrl="https://feeds.megaphone.fm/VMP4715698088" />
+        <outline text="We Can Do Hard Things with Glennon Doyle" title="We Can Do Hard Things with Glennon Doyle" type="rss" xmlUrl="https://feeds.megaphone.fm/wcdht" htmlUrl="https://feeds.megaphone.fm/wcdht" />
+        <outline text="不明白播客" title="不明白播客" type="rss" xmlUrl="https://feeds.buzzsprout.com/1982525.rss" htmlUrl="https://feeds.buzzsprout.com/1982525.rss" />
+        <outline text="Science Weekly" title="Science Weekly" type="rss" xmlUrl="https://www.theguardian.com/science/series/science/podcast.xml" htmlUrl="https://www.theguardian.com/science/series/science/podcast.xml" />
+        <outline text="Ologies with Alie Ward" title="Ologies with Alie Ward" type="rss" xmlUrl="https://feeds.simplecast.com/FO6kxYGj" htmlUrl="https://feeds.simplecast.com/FO6kxYGj" />
+        <outline text="Ten Percent Happier with Dan Harris" title="Ten Percent Happier with Dan Harris" type="rss" xmlUrl="https://rss.art19.com/ten-percent-happier" htmlUrl="https://rss.art19.com/ten-percent-happier" />
+        <outline text="Sleep With Me" title="Sleep With Me" type="rss" xmlUrl="https://feed.sleepwithmepodcast.com/" htmlUrl="https://feed.sleepwithmepodcast.com/" />
+        <outline text="Maintenance Phase" title="Maintenance Phase" type="rss" xmlUrl="https://feeds.buzzsprout.com/1411126.rss" htmlUrl="https://feeds.buzzsprout.com/1411126.rss" />
+        <outline text="The Vergecast" title="The Vergecast" type="rss" xmlUrl="https://feeds.megaphone.fm/vergecast" htmlUrl="https://feeds.megaphone.fm/vergecast" />
+        <outline text="Fresh Air" title="Fresh Air" type="rss" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" htmlUrl="https://feeds.npr.org/381444908/podcast.xml" />
+        <outline text="Radiolab" title="Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://feeds.wnyc.org/radiolab" />
+        <outline text="SmartLess" title="SmartLess" type="rss" xmlUrl="https://rss.art19.com/smartless" htmlUrl="https://rss.art19.com/smartless" />
+        <outline text="Uncanny Japan - Japanese Folklore, Folktales, Myths and Language" title="Uncanny Japan - Japanese Folklore, Folktales, Myths and Language" type="rss" xmlUrl="https://uncannyjapan.libsyn.com/rss" htmlUrl="https://uncannyjapan.libsyn.com/rss" />
+        <outline text="The Journal." title="The Journal." type="rss" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/the-journal" htmlUrl="https://video-api.wsj.com/podcast/rss/wsj/the-journal" />
+        <outline text="Stuff To Blow Your Mind" title="Stuff To Blow Your Mind" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss" htmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss" />
+        <outline text="How To Do Everything" title="How To Do Everything" type="rss" xmlUrl="https://feeds.npr.org/510303/podcast.xml" htmlUrl="https://feeds.npr.org/510303/podcast.xml" />
+        <outline text="All In The Mind" title="All In The Mind" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/b006qxx9.rss" htmlUrl="https://podcasts.files.bbci.co.uk/b006qxx9.rss" />
+        <outline text="The Psychology Podcast" title="The Psychology Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/4KVKgtIr" htmlUrl="https://feeds.simplecast.com/4KVKgtIr" />
+        <outline text="Naval" title="Naval" type="rss" xmlUrl="https://naval.libsyn.com/rss" htmlUrl="https://naval.libsyn.com/rss" />
+        <outline text="韋禮安跟你鳥鳥天 Season 01" title="韋禮安跟你鳥鳥天 Season 01" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/cf8202ca-d6a0-4838-8d26-c5d529937f15.xml" htmlUrl="https://feeds.soundon.fm/podcasts/cf8202ca-d6a0-4838-8d26-c5d529937f15.xml" />
+        <outline text="感官一條通" title="感官一條通" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/7407e3d0-4af7-404e-8b92-d54ce9b38e67.xml" htmlUrl="https://feeds.soundon.fm/podcasts/7407e3d0-4af7-404e-8b92-d54ce9b38e67.xml" />
+        <outline text="Analyse Asia with Bernard Leong" title="Analyse Asia with Bernard Leong" type="rss" xmlUrl="https://analyseasia.libsyn.com/rss" htmlUrl="https://analyseasia.libsyn.com/rss" />
+        <outline text="海马星球" title="海马星球" type="rss" xmlUrl="https://anchor.fm/s/47795d0/podcast/rss" htmlUrl="https://anchor.fm/s/47795d0/podcast/rss" />
+        <outline text="違章女生lalaLand" title="違章女生lalaLand" type="rss" xmlUrl="https://open.firstory.me/rss/user/cl4y18yp601sh01t9842ahl14" htmlUrl="https://open.firstory.me/rss/user/cl4y18yp601sh01t9842ahl14" />
+        <outline text="聽書時光" title="聽書時光" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/52a75586-ea48-478a-aaed-f3ba653972d0.xml" htmlUrl="https://feeds.soundon.fm/podcasts/52a75586-ea48-478a-aaed-f3ba653972d0.xml" />
     </body>
 </opml>
