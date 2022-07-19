@@ -737,5 +737,6 @@
         <outline text="Web3 101" title="Web3 101" type="rss" xmlUrl="https://feeds.fireside.fm/web3101/rss" htmlUrl="https://feeds.fireside.fm/web3101/rss" />
         <outline text="紐約沒有斑馬 NYZebra" title="紐約沒有斑馬 NYZebra" type="rss" xmlUrl="https://open.firstory.me/rss/user/cka26w5n2p1x60873g74j1uom" htmlUrl="https://open.firstory.me/rss/user/cka26w5n2p1x60873g74j1uom" />
         <outline text="台灣人台灣事" title="台灣人台灣事" type="rss" xmlUrl="https://anchor.fm/s/1a348ea0/podcast/rss" htmlUrl="https://anchor.fm/s/1a348ea0/podcast/rss" />
+        <outline text="放晴早安" title="放晴早安" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/284.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/284.xml" />
     </body>
 </opml>
