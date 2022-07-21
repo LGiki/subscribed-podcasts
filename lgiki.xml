@@ -740,5 +740,10 @@
         <outline text="放晴早安" title="放晴早安" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/284.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/284.xml" />
         <outline text="例外状态 State of Exception" title="例外状态 State of Exception" type="rss" xmlUrl="https://anchor.fm/s/5d9c1a28/podcast/rss" htmlUrl="https://anchor.fm/s/5d9c1a28/podcast/rss" />
         <outline text="MrBallen Podcast: Strange, Dark &amp; Mysterious Stories" title="MrBallen Podcast: Strange, Dark &amp; Mysterious Stories" type="rss" xmlUrl="https://rss.art19.com/MrBallen-Podcast" htmlUrl="https://rss.art19.com/MrBallen-Podcast" />
+        <outline text="The Changelog: Software Development, Open Source" title="The Changelog: Software Development, Open Source" type="rss" xmlUrl="https://changelog.com/podcast/feed" htmlUrl="https://changelog.com/podcast/feed" />
+        <outline text="Go Time: Golang, Software Engineering" title="Go Time: Golang, Software Engineering" type="rss" xmlUrl="https://changelog.com/gotime/feed" htmlUrl="https://changelog.com/gotime/feed" />
+        <outline text="JS Party: JavaScript, CSS, Web Development" title="JS Party: JavaScript, CSS, Web Development" type="rss" xmlUrl="https://changelog.com/jsparty/feed" htmlUrl="https://changelog.com/jsparty/feed" />
+        <outline text="Practical AI: Machine Learning, Data Science" title="Practical AI: Machine Learning, Data Science" type="rss" xmlUrl="https://changelog.com/practicalai/feed" htmlUrl="https://changelog.com/practicalai/feed" />
+        <outline text="Ship It! DevOps, Infra, Cloud Native" title="Ship It! DevOps, Infra, Cloud Native" type="rss" xmlUrl="https://changelog.com/shipit/feed" htmlUrl="https://changelog.com/shipit/feed" />
     </body>
 </opml>
