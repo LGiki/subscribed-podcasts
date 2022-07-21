@@ -739,5 +739,6 @@
         <outline text="台灣人台灣事" title="台灣人台灣事" type="rss" xmlUrl="https://anchor.fm/s/1a348ea0/podcast/rss" htmlUrl="https://anchor.fm/s/1a348ea0/podcast/rss" />
         <outline text="放晴早安" title="放晴早安" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/284.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/284.xml" />
         <outline text="例外状态 State of Exception" title="例外状态 State of Exception" type="rss" xmlUrl="https://anchor.fm/s/5d9c1a28/podcast/rss" htmlUrl="https://anchor.fm/s/5d9c1a28/podcast/rss" />
+        <outline text="MrBallen Podcast: Strange, Dark &amp; Mysterious Stories" title="MrBallen Podcast: Strange, Dark &amp; Mysterious Stories" type="rss" xmlUrl="https://rss.art19.com/MrBallen-Podcast" htmlUrl="https://rss.art19.com/MrBallen-Podcast" />
     </body>
 </opml>
