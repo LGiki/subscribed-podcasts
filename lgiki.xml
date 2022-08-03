@@ -261,7 +261,6 @@
         <outline text="不把天聊si" title="不把天聊si" type="rss" xmlUrl="http://www.ximalaya.com/album/51103902.xml" htmlUrl="http://www.ximalaya.com/album/51103902.xml" />
         <outline text="硅谷叨B叨" title="硅谷叨B叨" type="rss" xmlUrl="https://www.ximalaya.com/album/21685160.xml" htmlUrl="https://www.ximalaya.com/album/21685160.xml" />
         <outline text="读库立体声" title="读库立体声" type="rss" xmlUrl="https://feeds.acast.com/public/shows/60f54a3215143f001a4e0ad6" htmlUrl="https://feeds.acast.com/public/shows/60f54a3215143f001a4e0ad6" />
-        <outline text="放学以后After school" title="放学以后After school" type="rss" xmlUrl="https://anchor.fm/s/81d05f80/podcast/rss" htmlUrl="https://anchor.fm/s/81d05f80/podcast/rss" />
         <outline text="凹凸TO ALL" title="凹凸TO ALL" type="rss" xmlUrl="https://www.ximalaya.com/album/49611985.xml" htmlUrl="https://www.ximalaya.com/album/49611985.xml" />
         <outline text="非正常旅行" title="非正常旅行" type="rss" xmlUrl="http://www.ximalaya.com/album/40375905.xml" htmlUrl="http://www.ximalaya.com/album/40375905.xml" />
         <outline text="河对岸Opposite to Genius" title="河对岸Opposite to Genius" type="rss" xmlUrl="https://feeds.sounder.fm/8755/rss.xml" htmlUrl="https://feeds.sounder.fm/8755/rss.xml" />
@@ -745,5 +744,6 @@
         <outline text="JS Party: JavaScript, CSS, Web Development" title="JS Party: JavaScript, CSS, Web Development" type="rss" xmlUrl="https://changelog.com/jsparty/feed" htmlUrl="https://changelog.com/jsparty/feed" />
         <outline text="Practical AI: Machine Learning, Data Science" title="Practical AI: Machine Learning, Data Science" type="rss" xmlUrl="https://changelog.com/practicalai/feed" htmlUrl="https://changelog.com/practicalai/feed" />
         <outline text="Ship It! DevOps, Infra, Cloud Native" title="Ship It! DevOps, Infra, Cloud Native" type="rss" xmlUrl="https://changelog.com/shipit/feed" htmlUrl="https://changelog.com/shipit/feed" />
+        <outline text="爵士群英谱" title="爵士群英谱" type="rss" xmlUrl="https://justpodmedia.com/rss/jazzed-about.xml" htmlUrl="https://justpodmedia.com/rss/jazzed-about.xml" />
     </body>
 </opml>
