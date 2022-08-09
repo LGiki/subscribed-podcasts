@@ -746,5 +746,6 @@
         <outline text="Ship It! DevOps, Infra, Cloud Native" title="Ship It! DevOps, Infra, Cloud Native" type="rss" xmlUrl="https://changelog.com/shipit/feed" htmlUrl="https://changelog.com/shipit/feed" />
         <outline text="爵士群英谱" title="爵士群英谱" type="rss" xmlUrl="https://justpodmedia.com/rss/jazzed-about.xml" htmlUrl="https://justpodmedia.com/rss/jazzed-about.xml" />
         <outline text="Not Boring" title="Not Boring" type="rss" xmlUrl="https://anchor.fm/s/16186c88/podcast/rss" htmlUrl="https://anchor.fm/s/16186c88/podcast/rss" />
+        <outline text="My First Million" title="My First Million" type="rss" xmlUrl="https://feeds.megaphone.fm/HS2300184645" htmlUrl="https://feeds.megaphone.fm/HS2300184645" />
     </body>
 </opml>
