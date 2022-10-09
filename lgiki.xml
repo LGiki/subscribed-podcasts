@@ -753,5 +753,6 @@
         <outline text="科技双眼啤" title="科技双眼啤" type="rss" xmlUrl="https://kjsyp.fm/feed" htmlUrl="https://kjsyp.fm/feed" />
         <outline text="世代登出︰情緒篇" title="世代登出︰情緒篇" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/9dfcd40e-bb71-4934-b460-ab6da39035aa.xml" htmlUrl="https://feeds.soundon.fm/podcasts/9dfcd40e-bb71-4934-b460-ab6da39035aa.xml" />
         <outline text="The Indicator from Planet Money" title="The Indicator from Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510325/podcast.xml" htmlUrl="https://feeds.npr.org/510325/podcast.xml" />
+        <outline text="The History of English Podcast" title="The History of English Podcast" type="rss" xmlUrl="https://historyofenglishpodcast.com/feed/podcast/" htmlUrl="https://historyofenglishpodcast.com/feed/podcast/" />
     </body>
 </opml>
