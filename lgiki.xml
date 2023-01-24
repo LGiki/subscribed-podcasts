@@ -766,5 +766,6 @@
         <outline text="Catalog &amp; Cocktails" title="Catalog &amp; Cocktails" type="rss" xmlUrl="https://feeds.casted.us/127/Catalog-%26-Cocktails-2fcf8728/feed" htmlUrl="https://feeds.casted.us/127/Catalog-%26-Cocktails-2fcf8728/feed" />
         <outline text="The Analytics Power Hour" title="The Analytics Power Hour" type="rss" xmlUrl="https://analyticshour.libsyn.com/rss" htmlUrl="https://analyticshour.libsyn.com/rss" />
         <outline text="Monday Morning Data Chat" title="Monday Morning Data Chat" type="rss" xmlUrl="https://anchor.fm/s/4abab810/podcast/rss" htmlUrl="https://anchor.fm/s/4abab810/podcast/rss" />
+        <outline text="Love Letters" title="Love Letters" type="rss" xmlUrl="http://feeds.boston.com/GlobeLoveLetters" htmlUrl="http://feeds.boston.com/GlobeLoveLetters" />
     </body>
 </opml>
