@@ -767,5 +767,7 @@
         <outline text="The Analytics Power Hour" title="The Analytics Power Hour" type="rss" xmlUrl="https://analyticshour.libsyn.com/rss" htmlUrl="https://analyticshour.libsyn.com/rss" />
         <outline text="Monday Morning Data Chat" title="Monday Morning Data Chat" type="rss" xmlUrl="https://anchor.fm/s/4abab810/podcast/rss" htmlUrl="https://anchor.fm/s/4abab810/podcast/rss" />
         <outline text="Love Letters" title="Love Letters" type="rss" xmlUrl="http://feeds.boston.com/GlobeLoveLetters" htmlUrl="http://feeds.boston.com/GlobeLoveLetters" />
+        <outline text="The Robot Brains Podcast" title="The Robot Brains Podcast" type="rss" xmlUrl="https://feeds.acast.com/public/shows/6053a29a0d11b0148adcfc96" htmlUrl="https://feeds.acast.com/public/shows/6053a29a0d11b0148adcfc96" />
+        <outline text="比美麗電台Pod Podcast" title="比美麗電台Pod Podcast" type="rss" xmlUrl="https://open.firstory.me/rss/user/clckeg7to00dj01yo8vab8l9s" htmlUrl="https://open.firstory.me/rss/user/clckeg7to00dj01yo8vab8l9s" />
     </body>
 </opml>
