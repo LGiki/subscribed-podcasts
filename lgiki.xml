@@ -772,5 +772,6 @@
         <outline text="Foundering" title="Foundering" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/17082071-db1a-4132-8640-ae2b0012ff3a/podcast.rss" htmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/17082071-db1a-4132-8640-ae2b0012ff3a/podcast.rss" />
         <outline text="Hackaday Podcast" title="Hackaday Podcast" type="rss" xmlUrl="https://feeds.libsyn.com/305027/rss" htmlUrl="https://feeds.libsyn.com/305027/rss" />
         <outline text="FOSS and Crafts" title="FOSS and Crafts" type="rss" xmlUrl="https://fossandcrafts.org/rss-feed.rss" htmlUrl="https://fossandcrafts.org/rss-feed.rss" />
+        <outline text="HTTP 203" title="HTTP 203" type="rss" xmlUrl="https://feeds.libsyn.com/259637/rss" htmlUrl="https://feeds.libsyn.com/259637/rss" />
     </body>
 </opml>
