@@ -773,5 +773,6 @@
         <outline text="Hackaday Podcast" title="Hackaday Podcast" type="rss" xmlUrl="https://feeds.libsyn.com/305027/rss" htmlUrl="https://feeds.libsyn.com/305027/rss" />
         <outline text="FOSS and Crafts" title="FOSS and Crafts" type="rss" xmlUrl="https://fossandcrafts.org/rss-feed.rss" htmlUrl="https://fossandcrafts.org/rss-feed.rss" />
         <outline text="HTTP 203" title="HTTP 203" type="rss" xmlUrl="https://feeds.libsyn.com/259637/rss" htmlUrl="https://feeds.libsyn.com/259637/rss" />
+        <outline text="Tic-Tac-Toe the Hard Way" title="Tic-Tac-Toe the Hard Way" type="rss" xmlUrl="https://feeds.transistor.fm/tic-tac-toe-the-hard-way" htmlUrl="https://feeds.transistor.fm/tic-tac-toe-the-hard-way" />
     </body>
 </opml>
